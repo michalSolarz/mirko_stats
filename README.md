@@ -1,3 +1,5 @@
+Created fresh repo because of private keys inside
+
 # MirkoStats
 
 To start your Phoenix app:
